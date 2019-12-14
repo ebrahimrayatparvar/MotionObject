@@ -5,7 +5,7 @@
 
 در این سورس به طور ساده میتونیم یک آبجکت را در فرم نرم افزار خود به حرکت در بیاوریم.
 
-فیلم آموزشی را می توانید از آدرس های زیر تماشا کنید:
+فیلم آموزشی را می توانید از آدرس های زیر تماشا کنید: <br />
 <a href="http://www.zangclass.com/motion-object-in-c-sharp/">zangclass.com</a> <br />
 <a href="https://www.youtube.com/watch?v=1yZXXCl0tB4&t=14s">Youtube.com</a> <br />
 <a href="https://www.aparat.com/v/Zc0UA">Aparat.com</a> <br />
